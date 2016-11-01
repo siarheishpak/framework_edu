@@ -1,2 +1,2 @@
 # framework_edu
-This is educational project. Task is to create framework for automation testing.
+This is an educational project. Task is to create a framework for automation testing.
